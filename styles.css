@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background: linear-gradient(to right, #a989dd, #6d91b8);
+}
+
+    .container {
+        background-color: white;
+        color: #315e8a;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        width: 300px;
+        margin-top: 100px;
+    }
+
+    input, select, textarea{
+        padding: 10px;
+        margin-bottom: 15px;
+        width: 200px;
+    }
